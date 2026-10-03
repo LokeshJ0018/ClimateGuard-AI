@@ -28,7 +28,7 @@ st.divider()
 # --------------------------------------------------
 
 PREDICTION_FILE = "results/climateguard_fire_risk_predictions.csv"
-MODEL_FILE = "models/climateguard_random_forest.pkl"
+MODEL_FILE = "models/climateguard_random_forest_compressed.pkl"
 MAP_FILE = "results/climateguard_fire_risk_map.png"
 
 # --------------------------------------------------

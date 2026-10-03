@@ -31,5 +31,8 @@ results/*.csv
 .DS_Store
 Thumbs.db
 
-# Large trained ML models
+# Ignore large ML models
 models/*.pkl
+
+# Allow deployment-ready compressed model
+!models/climateguard_random_forest_compressed.pkl
