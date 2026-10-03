@@ -26,6 +26,7 @@ data/processed/*.csv
 
 # Generated prediction files
 results/*.csv
+!results/climateguard_dashboard_sample.csv
 
 # OS files
 .DS_Store
